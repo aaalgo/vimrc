@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/data/single/home/wdong/work/aaa/merk/omop_embed/doc'
+let g:netrw_dirhist_2='/data/single/home/wdong/work/aaa/merk/omop_embed/docker'
+let g:netrw_dirhist_1='/data/single/home/wdong/work/aaa/ehash/3rd/fmt/include/fmt'
